@@ -1,7 +1,7 @@
 #ifndef __WIFI_MGMR_H__
 #define __WIFI_MGMR_H__
 
-#include "bl602_os_hal.h"
+#include "bl_os_adapter/bl_os_private.h"
 
 #include "wifi_manager/include/wifi_mgmr_ext.h"
 #include "wifi_manager/stateMachine.h"
